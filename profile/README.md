@@ -1,4 +1,4 @@
-![Logo](Logo.jpg)
+![Logo](LogoHeader.jpg)
 # Welcome to Knowvation Learnings Pvt. Ltd.
 
 We're dedicated to delivering exceptional educational resources and promoting collaborative learning. Discover a range of projects, insightful learning materials, and valuable open-source contributions within our repositories.
