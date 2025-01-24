@@ -4,4 +4,4 @@ This repository serves as the overview of all the repositories in this Organizat
 
 ## Projects
 
-- [VeriCert](Vericert/SOW.md) - Digital Certificates Platform
+- [VeriCert](VeriCert/SOW.md) - Digital Certificates Platform
